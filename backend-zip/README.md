@@ -70,8 +70,6 @@ All protected endpoints require the `Authorization` header with a valid token.
     }
     ```
 
-... (continue documenting other endpoints)
-
 ## Components
 
 ### Schemas
